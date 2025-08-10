@@ -2,9 +2,9 @@
 
 **`Desenvolvedor FrontEnd`**
 
-Olá! Meu nome é Lucas Henrique e sou Desenvolvedor Front-End, com experiência na criação de interfaces modernas, funcionais e responsivas para aplicações web.
+Sou apaixonado por tecnologia e atualmente curso Análise e Desenvolvimento de Sistemas, buscando me tornar um desenvolvedor fullstack. Tenho 25 anos, sou de Recife, Pernambuco, e já possuo formação técnica em Front-End.
 
-Atuo com foco em performance, acessibilidade e boas práticas de desenvolvimento, garantindo soluções de qualidade e alinhadas às necessidades do usuário. Tenho domínio de tecnologias atuais e facilidade para trabalhar em equipe, sempre buscando evoluir tecnicamente e entregar valor em cada projeto..
+Trabalho com HTML, CSS, JavaScript, React e diferentes frameworks, além de ter experiência no consumo de APIs para criar aplicações dinâmicas e funcionais. Meu objetivo é unir design, usabilidade e performance para entregar soluções web modernas, responsivas e eficientes. Estou sempre em constante evolução, aprendendo novas tecnologias e aprimorando minhas habilidades para transformar ideias em projetos reais de alto impacto.
 
 ---
 
