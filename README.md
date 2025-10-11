@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FrontEnd`**
 
-Sou apaixonado por tecnologia e atualmente curso Análise e Desenvolvimento de Sistemas, buscando me tornar um desenvolvedor fullstack. Tenho 25 anos, sou de Recife, Pernambuco, e já possuo formação técnica em Front-End.
+Atualmente curso Análise e Desenvolvimento de Sistemas, buscando me tornar um desenvolvedor fullstack. Tenho 25 anos, sou de Recife, Pernambuco, e já possuo formação técnica em Front-End.
 
 Trabalho com HTML, CSS, JavaScript, React e diferentes frameworks, além de ter experiência no consumo de APIs para criar aplicações dinâmicas e funcionais. Meu objetivo é unir design, usabilidade e performance para entregar soluções web modernas, responsivas e eficientes. Estou sempre em constante evolução, aprendendo novas tecnologias e aprimorando minhas habilidades para transformar ideias em projetos reais de alto impacto.
 
