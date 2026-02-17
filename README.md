@@ -70,6 +70,14 @@ Trabalho com HTML, CSS, JavaScript, React e diferentes frameworks, além de ter 
 />
 <img 
     align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Nodejs" 
     title="Nodejs"
     width="30px" 
