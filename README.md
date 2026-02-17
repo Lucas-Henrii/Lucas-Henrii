@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Lucas Henrique
 
-**`Desenvolvedor FrontEnd`**
+**`Desenvolvedor Full Stack em formação`**
 
 Atualmente curso Análise e Desenvolvimento de Sistemas, buscando me tornar um desenvolvedor fullstack. Tenho 25 anos, sou de Recife, Pernambuco, e já possuo formação técnica em Front-End.
 
