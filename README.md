@@ -2,9 +2,21 @@
 
 **`Desenvolvedor Full Stack em formação`**
 
-Atualmente curso Análise e Desenvolvimento de Sistemas, buscando me tornar um desenvolvedor fullstack. Tenho 25 anos, sou de Recife, Pernambuco, e já possuo formação técnica em Front-End.
+*Desenvolvedor Full Stack em formação | Especialista Front-End | Estudante de ADS*
 
-Trabalho com HTML, CSS, JavaScript, React e diferentes frameworks, além de ter experiência no consumo de APIs para criar aplicações dinâmicas e funcionais. Meu objetivo é unir design, usabilidade e performance para entregar soluções web modernas, responsivas e eficientes. Estou sempre em constante evolução, aprendendo novas tecnologias e aprimorando minhas habilidades para transformar ideias em projetos reais de alto impacto.
+Sou desenvolvedor com formação técnica em Front-End e atualmente graduando em Análise e Desenvolvimento de Sistemas (ADS). Meu foco é a transição para o desenvolvimento Full Stack, unindo a precisão do ecossistema Front-End com a robustez de tecnologias Back-End.
+
+Com sólida base em HTML5, CSS3, JavaScript e React, tenho experiência na criação de interfaces modernas, responsivas e no consumo de APIs RESTful para entregar aplicações dinâmicas e funcionais. Atualmente, venho expandindo meu stack para o Back-End com tecnologias como Node.js, C# e bancos de dados SQL (PostgreSQL).
+
+Minhas principais competências:
+
+* Front-End: React.js, JavaScript (ES6+), Tailwind CSS, Styled Components.
+
+* Back-End & Base: Node.js, C#, PostgreSQL, Git/GitHub.
+
+* Foco: Performance, usabilidade (UX/UI) e escrita de código limpo.
+
+Resido em Recife/PE e sou apaixonado por transformar ideias complexas em soluções digitais que geram impacto real. Estou sempre em busca de novos desafios e oportunidades para colaborar em projetos inovadores.
 
 ---
 
