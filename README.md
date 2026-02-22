@@ -2,8 +2,6 @@
 
 **`Desenvolvedor Full Stack em formação`**
 
-*Desenvolvedor Full Stack em formação | Especialista Front-End | Estudante de ADS*
-
 Sou desenvolvedor com formação técnica em Front-End e atualmente graduando em Análise e Desenvolvimento de Sistemas (ADS). Meu foco é a transição para o desenvolvimento Full Stack, unindo a precisão do ecossistema Front-End com a robustez de tecnologias Back-End.
 
 Com sólida base em HTML5, CSS3, JavaScript e React, tenho experiência na criação de interfaces modernas, responsivas e no consumo de APIs RESTful para entregar aplicações dinâmicas e funcionais. Atualmente, venho expandindo meu stack para o Back-End com tecnologias como Node.js, C# e bancos de dados SQL (PostgreSQL).
