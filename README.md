@@ -2,17 +2,19 @@
 
 **`Desenvolvedor Full Stack em formação`**
 
-Sou desenvolvedor com formação técnica em Front-End e atualmente graduando em Análise e Desenvolvimento de Sistemas (ADS). Meu foco é a transição para o desenvolvimento Full Stack, unindo a precisão do ecossistema Front-End com a robustez de tecnologias Back-End.
+Sou desenvolvedor com formação técnica em Front-End e graduando em Análise e Desenvolvimento de Sistemas (ADS). Meu foco é a transição para o desenvolvimento Full Stack, unindo a reatividade do ecossistema Front-End com a robustez e segurança do Back-End.
 
-Com sólida base em HTML5, CSS3, JavaScript e React, tenho experiência na criação de interfaces modernas, responsivas e no consumo de APIs RESTful para entregar aplicações dinâmicas e funcionais. Atualmente, venho expandindo meu stack para o Back-End com tecnologias como Node.js, C# e bancos de dados SQL (PostgreSQL).
+Tenho sólida base em HTML5, CSS3, JavaScript e TypeScript, com experiência na criação de interfaces modernas, responsivas e no consumo de APIs RESTful. Atualmente, foco na criação de APIs e na arquitetura de sistemas utilizando C# (.NET) e Node.js, garantindo a persistência de dados com PostgreSQL.
 
 Minhas principais competências:
 
-* Front-End: React.js, JavaScript (ES6+), Tailwind CSS, Styled Components.
+* Front-End: React.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Styled Components.
 
-* Back-End & Base: Node.js, C#, PostgreSQL, Git/GitHub.
+* Back-End & Base: Criação de APIs RESTful, C# (.NET Core), Node.js, PostgreSQL, Git/GitHub.
+  
+* Engenharia: Conhecimento em lógica booleana, arquitetura de computadores e princípios de Clean Code.
 
-* Foco: Performance, usabilidade (UX/UI) e escrita de código limpo.
+* Foco: Performance, escalabilidade, usabilidade (UX/UI) e escrita de código tipado e sustentável.
 
 Resido em Recife/PE e sou apaixonado por transformar ideias complexas em soluções digitais que geram impacto real. Estou sempre em busca de novos desafios e oportunidades para colaborar em projetos inovadores.
 
@@ -43,6 +45,14 @@ Resido em Recife/PE e sou apaixonado por transformar ideias complexas em soluç�
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Typescript" 
+    title="Typescript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
     align="left" 
