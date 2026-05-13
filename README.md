@@ -35,6 +35,8 @@ Tenho sólida experiência em interfaces modernas com React.js e TypeScript, ali
 
 ### 📊 Estatísticas
 
+### 📊 Estatísticas
+
 <p align="left">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Lucas-Henrii&theme=tokyonight&hide_border=false"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=Lucas-Henrii&theme=nord&locale=pt_BR&hide_border=false"/>
 </p>
