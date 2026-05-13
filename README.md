@@ -6,10 +6,11 @@ Desenvolvedor Full Stack com formação técnica em Front-End e graduando em An�
 Tenho sólida experiência em interfaces modernas com React.js e TypeScript, aliada a uma transição intencional para a engenharia de Back-End — onde concentro meu foco atual na criação de APIs RESTful, arquitetura de sistemas e persistência de dados com PostgreSQL.
 Competências principais:
 
-Front-End: React.js, TypeScript, JavaScript (ES6+), Tailwind CSS
-Back-End: Node.js, Python, APIs RESTful, PostgreSQL
-Engenharia: Clean Code, arquitetura de sistemas, lógica booleana, código tipado e sustentável
-Ferramentas: Git, GitHub
+* Front-End: React.js, TypeScript, JavaScript (ES6+), Tailwind CSS
+* Back-End: Node.js, Python, APIs RESTful, PostgreSQL
+* Engenharia: Clean Code, arquitetura de sistemas, lógica booleana, código tipado e sustentável
+* Ferramentas: Git, GitHub
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
