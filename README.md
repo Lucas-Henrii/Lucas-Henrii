@@ -1,23 +1,15 @@
 # 👨🏻‍💻 Lucas Henrique
 
-**`Desenvolvedor Full Stack em formação`**
+**`Engenheiro de Software | Full Stack Developer`**
 
-Sou desenvolvedor com formação técnica em Front-End e graduando em Análise e Desenvolvimento de Sistemas (ADS). Meu foco é a transição para o desenvolvimento Full Stack, unindo a reatividade do ecossistema Front-End com a robustez e segurança do Back-End.
+Desenvolvedor Full Stack com formação técnica em Front-End e graduando em Análise e Desenvolvimento de Sistemas (ADS), focado na construção de sistemas robustos, escaláveis e de alto impacto.
+Tenho sólida experiência em interfaces modernas com React.js e TypeScript, aliada a uma transição intencional para a engenharia de Back-End — onde concentro meu foco atual na criação de APIs RESTful, arquitetura de sistemas e persistência de dados com PostgreSQL.
+Competências principais:
 
-Tenho sólida base em HTML5, CSS3, JavaScript e TypeScript, com experiência na criação de interfaces modernas, responsivas e no consumo de APIs RESTful. Atualmente, foco na criação de APIs e na arquitetura de sistemas utilizando C# (.NET) e Node.js, garantindo a persistência de dados com PostgreSQL.
-
-Minhas principais competências:
-
-* Front-End: React.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Styled Components.
-
-* Back-End & Base: Criação de APIs RESTful, C# (.NET Core), Node.js, PostgreSQL, Git/GitHub.
-  
-* Engenharia: Conhecimento em lógica booleana, arquitetura de computadores e princípios de Clean Code.
-
-* Foco: Performance, escalabilidade, usabilidade (UX/UI) e escrita de código tipado e sustentável.
-
-Resido em Recife/PE e sou apaixonado por transformar ideias complexas em soluções digitais que geram impacto real. Estou sempre em busca de novos desafios e oportunidades para colaborar em projetos inovadores.
-
+Front-End: React.js, TypeScript, JavaScript (ES6+), Tailwind CSS
+Back-End: Node.js, Python, APIs RESTful, PostgreSQL
+Engenharia: Clean Code, arquitetura de sistemas, lógica booleana, código tipado e sustentável
+Ferramentas: Git, GitHub
 ---
 
 ### 🤖 Linguagens e Tecnologias
