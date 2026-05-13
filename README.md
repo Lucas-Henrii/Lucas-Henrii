@@ -14,6 +14,7 @@ Competências principais:
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
 <img
   align="left"
   alt="HTML"
@@ -102,6 +103,19 @@ Competências principais:
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
+
+### 📊 Estatísticas
+
+<p align="left">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=Lucas-Henrii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Henrii&layout=compact&langs_count=7&theme=tokyonight"
+  />
+</p>
 
 <br/>
 <br/>
