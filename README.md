@@ -104,6 +104,8 @@ Competências principais:
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
+---
+
 ### 📊 Estatísticas
 
 <p align="left">
