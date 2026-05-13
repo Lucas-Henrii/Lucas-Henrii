@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Lucas Henrique
 
-**`Engenheiro de Software | Full Stack Developer`**
+**`Software Engineer | Full Stack Developer`**
 
 Desenvolvedor Full Stack com formação técnica em Front-End e graduando em Análise e Desenvolvimento de Sistemas (ADS), focado na construção de sistemas robustos, escaláveis e de alto impacto.
 Tenho sólida experiência em interfaces modernas com React.js e TypeScript, aliada a uma transição intencional para a engenharia de Back-End — onde concentro meu foco atual na criação de APIs RESTful, arquitetura de sistemas e persistência de dados com PostgreSQL.
