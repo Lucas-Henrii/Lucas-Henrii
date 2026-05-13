@@ -37,5 +37,5 @@ Tenho sólida experiência em interfaces modernas com React.js e TypeScript, ali
 
 <p align="left">
   <img height="180em" src="https://streak-stats.demolab.com?user=Lucas-Henrii&theme=nord&locale=pt_BR&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Henrii&layout=compact&langs_count=7&theme=nord&cache_seconds=1800"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucas-Henrii&theme=nord_bright"/>
 </p>
