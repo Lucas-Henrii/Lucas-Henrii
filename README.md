@@ -1,16 +1,15 @@
 # 👨🏻‍💻 Lucas Henrique
 
-**`Software Engineer | Full Stack Developer`**
+**`Desenvolvedor Fullstack com foco em Front-end | React • JavaScript • PostgreSQL`**
 
-Desenvolvedor Full Stack com formação técnica em Front-End e graduando em Análise e Desenvolvimento de Sistemas (ADS), focado na construção de sistemas robustos, escaláveis e de alto impacto.
-
-Tenho sólida experiência em interfaces modernas com React.js e TypeScript, aliada a uma transição intencional para a engenharia de Back-End — onde concentro meu foco atual na criação de APIs RESTful, arquitetura de sistemas e persistência de dados com PostgreSQL.
+Desenvolvedor Full Stack com foco em Front-End, graduando em Análise e Desenvolvimento de Sistemas (ADS), especializado em construir interfaces modernas com código limpo e sustentável.
+Tenho experiência sólida com React.js e TypeScript na construção de interfaces escaláveis e de alto impacto, com visão fullstack que me permite integrar front-end com APIs RESTful e persistência de dados em PostgreSQL.
 
 **Competências principais:**
 
 - 🖥️ **Front-End:** React.js, TypeScript, JavaScript (ES6+), Tailwind CSS
-- ⚙️ **Back-End:** Node.js, Python, APIs RESTful, PostgreSQL
-- 🧠 **Engenharia:** Clean Code, arquitetura de sistemas, lógica booleana, código tipado e sustentável
+- ⚙️ **Back-End:** Node.js, APIs RESTful, PostgreSQL
+- 🧠 **Engenharia:** Clean Code, código tipado, arquitetura de sistemas
 - 🛠️ **Ferramentas:** Git, GitHub
 
 ---
@@ -23,8 +22,6 @@ Tenho sólida experiência em interfaces modernas com React.js e TypeScript, ali
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
 <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
 <img align="left" alt="Tailwind" title="Tailwind" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="FastAPI" title="FastAPI" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>
 <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
