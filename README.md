@@ -1,29 +1,32 @@
 # 👨🏻‍💻 Lucas Henrique
 
-**`Desenvolvedor Fullstack com foco em Front-end | React • JavaScript • PostgreSQL`**
+**`Engenharia de Dados | Graduando em ADS • Python • Pandas • PostgreSQL • ETL`**
 
-Desenvolvedor Full Stack com foco em Front-End, graduando em Análise e Desenvolvimento de Sistemas (ADS), especializado em construir interfaces modernas com código limpo e sustentável.
-Tenho experiência sólida com React.js e TypeScript na construção de interfaces escaláveis e de alto impacto, com visão fullstack que me permite integrar front-end com APIs RESTful e persistência de dados em PostgreSQL.
+🎓 Graduando em Análise e Desenvolvimento de Sistemas (ADS) com foco em Engenharia de Dados.
+
+Desenvolvo pipelines de ETL automatizadas utilizando Python e Pandas para a ingestão, limpeza e normalização de estruturas complexas de dados (JSON). Possuo experiência prática na modelagem e persistência em bancos de dados relacionais (PostgreSQL) e na otimização de armazenamento utilizando formatos colunares modernos como Parquet (PyArrow).
+
+Com um background focado em lógica de programação, arquitetura de sistemas e Clean Code, consigo transitar entre o entendimento da geração do dado no backend e a sua estruturação em camadas de um Data Lake (Raw/Bronze e Processed/Silver).
+
+Procuras a minha primeira oportunidade como Estagiário ou Engenheiro de Dados Júnior, pronto para colaborar na construção de fluxos de dados eficientes, estáveis e escaláveis.
 
 **Competências principais:**
 
-- 🖥️ **Front-End:** React.js, TypeScript, JavaScript (ES6+), Tailwind CSS
-- ⚙️ **Back-End:** Node.js, APIs RESTful, PostgreSQL
-- 🧠 **Engenharia:** Clean Code, código tipado, arquitetura de sistemas
-- 🛠️ **Ferramentas:** Git, GitHub
+- 🐍 Engenharia de Dados & ETL: Pipelines de Dados, Pandas, PyArrow (Parquet), Requests (Consumo de APIs)
+- 🗄️ Bancos de Dados & SQL: PostgreSQL, Modelagem Relacional, Queries Otimizadas
+- 💻 Programação para Dados: Python, TypeScript, JavaScript (ES6+), Estruturas de Dados
+- 🛠️ Ferramentas & Práticas: Git, GitHub, Clean Code
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" alt="Pandas" title="Pandas" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-<img align="left" alt="Tailwind" title="Tailwind" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
 <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 
 <br/><br/><br/>
