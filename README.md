@@ -33,9 +33,3 @@ Procuras a minha primeira oportunidade como Estagiário ou Engenheiro de Dados J
 
 ---
 
-### 📊 Estatísticas
-
-<p align="left">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Lucas-Henrii&theme=nord&locale=pt_BR&hide_border=false"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucas-Henrii&theme=github_dark"/>
-</p>
