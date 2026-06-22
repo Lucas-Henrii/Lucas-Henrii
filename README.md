@@ -1,8 +1,6 @@
 # 👨🏻‍💻 Lucas Henrique
 
-**`Engenharia de Dados | Graduando em ADS • Python • Pandas • PostgreSQL • ETL`**
-
-🎓 Graduando em Análise e Desenvolvimento de Sistemas (ADS) com foco em Engenharia de Dados.
+**`Analista / Engenheiro de Dados | Python • Pandas • SQL • ETL • PowerBI`**
 
 Desenvolvo pipelines de ETL automatizadas utilizando Python e Pandas para a ingestão, limpeza e normalização de estruturas complexas de dados (JSON). Possuo experiência prática na modelagem e persistência em bancos de dados relacionais (PostgreSQL) e na otimização de armazenamento utilizando formatos colunares modernos como Parquet (PyArrow).
 
@@ -14,7 +12,7 @@ Procuras a minha primeira oportunidade como Estagiário ou Engenheiro de Dados J
 
 - 🐍 Engenharia de Dados & ETL: Pipelines de Dados, Pandas, PyArrow (Parquet), Requests (Consumo de APIs)
 - 🗄️ Bancos de Dados & SQL: PostgreSQL, Modelagem Relacional, Queries Otimizadas
-- 💻 Programação para Dados: Python, TypeScript, JavaScript (ES6+), Estruturas de Dados
+- 💻 Programação para Dados: Python, Estruturas de Dados
 - 🛠️ Ferramentas & Práticas: Git, GitHub, Clean Code
 
 ---
@@ -24,9 +22,6 @@ Procuras a minha primeira oportunidade como Estagiário ou Engenheiro de Dados J
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="Pandas" title="Pandas" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 
 <br/><br/><br/>
