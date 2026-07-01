@@ -10,7 +10,6 @@ Tenho experiência prática em modelagem e consultas avançadas em SQL (PostgreS
 Busco minha primeira oportunidade como Estagiário ou Júnior em Engenharia ou Análise de Dados.
 
 🛠️ Skills: Python, Pandas, SQL (PostgreSQL), PyArrow (Parquet), ETL/ELT, Análise Exploratória, Git/GitHub.
-🔗 Portfólio (GitHub): https://github.com/Lucas-Henrii
 
 ---
 
