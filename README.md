@@ -1,19 +1,16 @@
 # 👨🏻‍💻 Lucas Henrique
 
-**`Analista / Engenheiro de Dados | Python • Pandas • SQL • ETL • PowerBI`**
+**`Analista de Dados | Engenheiro de Dados | Python • Pandas • SQL • ETL • PowerBI • Data Lake`**
 
-Desenvolvo pipelines de ETL automatizadas utilizando Python e Pandas para a ingestão, limpeza e normalização de estruturas complexas de dados (JSON). Possuo experiência prática na modelagem e persistência em bancos de dados relacionais (PostgreSQL) e na otimização de armazenamento utilizando formatos colunares modernos como Parquet (PyArrow).
+Graduando em Análise e Desenvolvimento de Sistemas (ADS) com foco em Engenharia e Análise de Dados.
+Atuo no ciclo completo do dado: desde a ingestão no backend até a entrega de estruturas prontas para análise de negócio. Desenvolvo pipelines de ETL automatizadas em Python (Pandas) para limpeza de estruturas complexas (JSON) e organizo esses dados em camadas de Data Lake (Bronze/Silver).
 
-Com um background focado em lógica de programação, arquitetura de sistemas e Clean Code, consigo transitar entre o entendimento da geração do dado no backend e a sua estruturação em camadas de um Data Lake (Raw/Bronze e Processed/Silver).
+Tenho experiência prática em modelagem e consultas avançadas em SQL (PostgreSQL), além de otimização de armazenamento com formatos colunares como Parquet (PyArrow), garantindo performance tanto para a infraestrutura quanto para análises exploratórias.
 
-Procuras a minha primeira oportunidade como Estagiário ou Engenheiro de Dados Júnior, pronto para colaborar na construção de fluxos de dados eficientes, estáveis e escaláveis.
+Busco minha primeira oportunidade como Estagiário ou Júnior em Engenharia ou Análise de Dados.
 
-**Competências principais:**
-
-- 🐍 Engenharia de Dados & ETL: Pipelines de Dados, Pandas, PyArrow (Parquet), Requests (Consumo de APIs)
-- 🗄️ Bancos de Dados & SQL: PostgreSQL, Modelagem Relacional, Queries Otimizadas
-- 💻 Programação para Dados: Python, Estruturas de Dados
-- 🛠️ Ferramentas & Práticas: Git, GitHub, Clean Code
+🛠️ Skills: Python, Pandas, SQL (PostgreSQL), PyArrow (Parquet), ETL/ELT, Análise Exploratória, Git/GitHub.
+🔗 Portfólio (GitHub): https://github.com/Lucas-Henrii
 
 ---
 
