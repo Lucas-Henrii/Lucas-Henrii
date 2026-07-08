@@ -1,16 +1,14 @@
-# 👨🏻‍💻 Lucas Henrique
+# 👨🏻‍💻 Lucas Henrique Azevedo dos Santos
 
-**`Analista de Dados | Engenheiro de Dados | Python • Pandas • SQL • ETL • PowerBI • Data Lake`**
+**`Analista de Dados | Power BI | SQL | Python | Business Inteligence | Pensamento Analítico`**
 
-Graduando em Análise e Desenvolvimento de Sistemas (ADS) com foco em Engenharia e Análise de Dados.
-Atuo no ciclo completo do dado: desde a ingestão no backend até a entrega de estruturas prontas para análise de negócio. Desenvolvo pipelines de ETL automatizadas em Python (Pandas) para limpeza de estruturas complexas (JSON) e organizo esses dados em camadas de Data Lake (Bronze/Silver).
+Graduando em Análise e Desenvolvimento de Sistemas (ADS) com foco em Análise de Dados e Business Intelligence.
 
-Tenho experiência prática em modelagem e consultas avançadas em SQL (PostgreSQL), além de otimização de armazenamento com formatos colunares como Parquet (PyArrow), garantindo performance tanto para a infraestrutura quanto para análises exploratórias.
+Atuo em todo o ciclo de inteligência de dados: desde a extração em bancos de dados até a modelagem, construção de dashboards e entrega de relatórios para análises de negócio. Desenvolvo pipelines automatizados em Python (Pandas) para o tratamento, limpeza e transformação de estruturas complexas, preparando os dados brutos para análises exploratórias profundas.
 
-Busco minha primeira oportunidade como Estagiário ou Júnior em Engenharia ou Análise de Dados.
+Tenho experiência prática na manipulação de grandes volumes de informações através de consultas avançadas e modelagem em SQL (PostgreSQL), além de criar visualizações dinâmicas e intuitivas no Power BI. Utilizo ferramentas analíticas para identificar padrões, monitorar métricas e traduzir dados técnicos em insights visuais claros que apoiam a tomada de decisão estratégica.
 
-🛠️ Skills: Python, Pandas, SQL (PostgreSQL), PyArrow (Parquet), ETL/ELT, Análise Exploratória, Git/GitHub.
-
+Competências-chave: SQL | Power BI | Business Intelligence | Data Analytics | Data Analysis | Data Modeling | ETL | KPIs | Dashboard Development | Data Visualization | Business Analysis
 ---
 
 ### 🤖 Linguagens e Tecnologias
